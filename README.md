@@ -79,7 +79,7 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
         <a href="https://github.com/setsuwww/lintasartakp">
           <b>Project 1</b>
         </a>
-        <br/>
+        <br style="margin-bottom: 5px;"/>
         <sub>Nextjs, React, Shadcn & Javascript</sub>
         <br/>
         <a href="https://github.com/setsuwww/lintasartakp">
@@ -90,7 +90,7 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
         <a href="https://github.com/setsuwww/flashcashier">
           <b>Project 2</b>
         </a>
-        <br/>
+        <br style="margin-bottom: 5px;"/>
         <sub>Nextjs, React, Shadcn & Typescript</sub>
         <br/>
         <a href="https://github.com/setsuwww/flashcashier">
@@ -101,7 +101,7 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
         <a href="https://github.com/setsuwww/nexttask">
           <b>Project 3</b>
         </a>
-        <br/>
+        <br style="margin-bottom: 5px;" />
         <sub>Nextjs, React, Shadcn & Typescript</sub>
         <br/>
         <a href="https://github.com/setsuwww/nexttask">
