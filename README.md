@@ -79,8 +79,8 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
         <a href="https://github.com/setsuwww/lintasartakp">
           <b>Project 1</b>
         </a>
-        <br style="margin-bottom: 5px;"/>
-        <sub>Nextjs, React, Shadcn & Javascript</sub>
+        <br/>
+        <sub style="margin-bottom: 5px;">Nextjs, React, Shadcn & Javascript</sub>
         <br/>
         <a href="https://github.com/setsuwww/lintasartakp">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=setsuwww&repo=lintasartakp&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF" alt="PROJECT_ONE" />
@@ -90,8 +90,8 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
         <a href="https://github.com/setsuwww/flashcashier">
           <b>Project 2</b>
         </a>
-        <br style="margin-bottom: 5px;"/>
-        <sub>Nextjs, React, Shadcn & Typescript</sub>
+        <br />
+        <sub style="margin-bottom: 5px;">Nextjs, React, Shadcn & Typescript</sub>
         <br/>
         <a href="https://github.com/setsuwww/flashcashier">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=setsuwww&repo=flashcashier&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF" alt="PROJECT_TWO" />
@@ -101,8 +101,8 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
         <a href="https://github.com/setsuwww/nexttask">
           <b>Project 3</b>
         </a>
-        <br style="margin-bottom: 5px;" />
-        <sub>Nextjs, React, Shadcn & Typescript</sub>
+        <br />
+        <sub style="margin-bottom: 5px;">Nextjs, React, Shadcn & Typescript</sub>
         <br/>
         <a href="https://github.com/setsuwww/nexttask">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=setsuwww&repo=nexttask&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF" alt="PROJECT_TWO" />
