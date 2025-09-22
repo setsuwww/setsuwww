@@ -32,7 +32,6 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
 * Iam Rifqi Ibrahim, i like & love javascript very much expectialy Nextjs.
 * Passionate about new things like SSR, CSR, ISR and SEO Website.
 * Exploring Nextjs Feature.
-* I share notes and snippets here: https://rlxxx.vercel.app
 
 <img src="https://skillicons.dev/icons?i=nextjs,js,ts,laravel,php,tailwind,vite,prisma,mongodb,express,react,nodejs,mysql,postgres,docker,github&perline=8" alt="skills"/>
 
