@@ -34,12 +34,7 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
 * Exploring Nextjs Feature.
 * I share notes and snippets here: https://rlxxx.vercel.app
 
-<details>
-  <summary><b>Tech I like (click to expand)</b></summary>
-
-  <img src="https://skillicons.dev/icons?i=nextjs,js,ts,laravel,php,tailwind,vite,prisma,mongodb,express,react,nodejs,mysql,postgres,docker,github&perline=8" alt="skills"/>
-
-</details>
+<img src="https://skillicons.dev/icons?i=nextjs,js,ts,laravel,php,tailwind,vite,prisma,mongodb,express,react,nodejs,mysql,postgres,docker,github&perline=8" alt="skills"/>
 
 ---
 
