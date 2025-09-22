@@ -4,7 +4,7 @@ This README is themed after One Dark Pro (Atom) and uses dynamic cards/badges.
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=700&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Frontend+%7C+Full‑stack+Developer;Loves+React%2C+TypeScript%2C+and+DX;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=700&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+setsuwww+%F0%9F%91%8B;Frontend+%7C+Full‑stack+Developer;Loves+React%2C+TypeScript%2C+and+DX;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <!-- ====== Palette (One Dark Pro) ======
@@ -27,7 +27,7 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
 
 ---
 
-### <img src="https://github.com/ashutosh1919/assistant-icons/raw/main/laptop-coding.gif" width="28"/> About me
+### About me
 
 * Iam Rifqi Ibrahim, i like & love javascript very much expectialy Nextjs.
 * Passionate about new things like SSR, CSR, ISR and SEO Website.
