@@ -120,7 +120,8 @@ Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
 
 ### Get in touch
 
-* 🌐 Website: **https://ripsynss.vercel.app**
+* 🌐 First Portfolio: **https://ripsynss.vercel.app**
+* 🌐 Second Portfolio: **https://rlxxx.vercel.app**
 
 ---
 
