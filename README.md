@@ -23,8 +23,15 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=282C34&color=ABB2BF&line=56B6C2&point=C678DD&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
-### My portfolio
-- First : "https://ripsynss.vercel.app"
-- Second : "https://rlxxx.vercel.app"
+## My Portfolio
+
+<p align="center">
+  <a href="https://ripsynss.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%201-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://rlxxx.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%202-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,18&height=100&section=footer&" width="100%"/>
