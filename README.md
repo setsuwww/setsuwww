@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rifqi%20Ibrahim%20'S%20Github%20Profiles&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
 
+<p>
+  <img src="https://github.com/user-attachments/assets/86d46417-d25b-44e2-a1a5-d36eb29b2ef2" width="250" style="border-radius: 100%;" alt="Ambatukam">
+</p>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Developer;Full+Stack+Developer+;Laravel+Nextjs+Expert+;" alt="Typing SVG" />
 </a>
@@ -25,12 +29,10 @@
 
 ## My Portfolio
 
-## 🧩 My Portfolio
-
 | Project | Description | Link |
 |----------|--------------|------|
-| 🎨 **First Portfolio** | Personal showcase site with modern UI | [Visit →](https://ripsynss.vercel.app) |
-| 💻 **Second Portfolio** | Experimental React + Tailwind setup | [Visit →](https://rlxxx.vercel.app) |
+| 1. **First Portfolio** | Personal showcase site with modern UI | [Visit →](https://ripsynss.vercel.app) |
+| 2. **Second Portfolio** | Experimental React + Tailwind setup | [Visit →](https://rlxxx.vercel.app) |
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,18&height=100&section=footer&" width="100%"/>
