@@ -25,13 +25,12 @@
 
 ## My Portfolio
 
-<p align="center">
-  <a href="https://ripsynss.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%202-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://rlxxx.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%202-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
+## 🧩 My Portfolio
+
+| Project | Description | Link |
+|----------|--------------|------|
+| 🎨 **First Portfolio** | Personal showcase site with modern UI | [Visit →](https://ripsynss.vercel.app) |
+| 💻 **Second Portfolio** | Experimental React + Tailwind setup | [Visit →](https://rlxxx.vercel.app) |
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,18&height=100&section=footer&" width="100%"/>
