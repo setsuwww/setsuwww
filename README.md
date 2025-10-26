@@ -1,137 +1,45 @@
 <!--
-Replace all occurrences of YOUR_USERNAME, YOUR_NAME, and YOUR_WEBSITE.
-This README is themed after One Dark Pro (Atom) and uses dynamic cards/badges.
+GitHub Profile README
+Theme: Futuristic / Professional / Elegant
+No emojis, clean typography, dark-mode optimized
+Uses One Dark Pro-inspired palette with subtle gradients and modern shields
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=700&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+setsuwww+%F0%9F%91%8B;Frontend+%7C+Full‑stack+Developer;Loves+React%2C+TypeScript%2C+and+DX;Always+learning+something+new" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=61AFEF&center=true&vCenter=true&width=800&lines=Rifqi+Ibrahim;Frontend+%26+Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+React;Building+Scalable+Web+Experiences" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=61AFEF&center=true&vCenter=true&width=800&lines=Rifqi+Ibrahim;Frontend+%26+Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+React;Building+Scalable+Web+Experiences" alt="Typing SVG" />
+  </picture>
 </p>
-
-<!-- ====== Palette (One Dark Pro) ======
-Background: #282C34 | Foreground: #ABB2BF
-Accents:    #E06C75 (red), #98C379 (green), #E5C07B (yellow),
-            #61AFEF (blue), #C678DD (purple), #56B6C2 (cyan)
-======================================= -->
 
 <p align="center">
   <a href="https://github.com/setsuwww">
-    <img src="https://img.shields.io/badge/Build-automated-56B6C2?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/AUTOMATED_WORKFLOWS-ENABLED-56、B6C2?style=flat-square&logo=githubactions&logoColor=white&color=282C34" alt="Automated" />
   </a>
   <a href="https://ripsynss.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-online-61AFEF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-61AFEF?style=flat-square&logo=vercel&logoColor=white&color=282C34" alt="Portfolio" />
   </a>
   <a href="mailto:baimrifqi1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-say%20hi!-E5C07B?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONTACT-AVAILABLE-E5C07B?style=flat-square&logo=gmail&logoColor=white&color=282C34" alt="Email" />
   </a>
 </p>
 
 ---
 
-### About me
+## Professional Summary
 
-* Iam Rifqi Ibrahim, i like & love javascript very much expectialy Nextjs.
-* Passionate about new things like SSR, CSR, ISR and SEO Website.
-* Exploring Nextjs Feature.
+Software engineer specializing in modern web architecture with deep expertise in **Next.js**, **TypeScript**, and **React**. Focused on performance, developer experience, and scalable rendering strategies including SSR, CSR, ISR, and SEO-optimized deployments.
 
-<img src="https://skillicons.dev/icons?i=nextjs,js,ts,laravel,php,tailwind,vite,prisma,mongodb,express,react,nodejs,mysql,postgres,docker,github&perline=8" alt="skills"/>
+Currently advancing proficiency in **Next.js App Router**, **Server Components**, and **Edge Runtime** to deliver high-performance, globally distributed applications.
 
 ---
 
-### GitHub Stats
+## Technical Proficiencies
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF&icon_color=E5C07B" alt="stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF" alt="top langs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=setsuwww&theme=github-dark&hide_border=true&background=282C34&ring=61AFEF&fire=E06C75&currStreakLabel=E5C07B" alt="streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=282C34&color=ABB2BF&line=56B6C2&point=C678DD&area=true&hide_border=true" alt="activity graph"/>
-  </a>
-</p>
-
----
-
-### Featured Projects
-
-<details open>
-  <summary><b>Quick view</b></summary>
-
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/setsuwww/lintasartakp">
-          <b>Project 1</b>
-        </a>
-        <br/>
-        <sub style="margin-bottom: 5px;">Nextjs, React, Shadcn & Javascript</sub>
-        <br/>
-        <a href="https://github.com/setsuwww/lintasartakp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=setsuwww&repo=lintasartakp&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF" alt="PROJECT_ONE" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/setsuwww/flashcashier">
-          <b>Project 2</b>
-        </a>
-        <br />
-        <sub style="margin-bottom: 5px;">Nextjs, React, Shadcn & Typescript</sub>
-        <br/>
-        <a href="https://github.com/setsuwww/flashcashier">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=setsuwww&repo=flashcashier&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF" alt="PROJECT_TWO" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/setsuwww/nexttask">
-          <b>Project 3</b>
-        </a>
-        <br />
-        <sub style="margin-bottom: 5px;">Nextjs, React, Shadcn & Typescript</sub>
-        <br/>
-        <a href="https://github.com/setsuwww/nexttask">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=setsuwww&repo=nexttask&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=ABB2BF" alt="PROJECT_TWO" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</details>
-
----
-
-### ⚙Toolbox
-
-* **Languages:** TypeScript, JavaScript, PHP
-* **Frameworks:** React, Nextjs, Vue, Nuxtjs, Laravel
-* **Styling:** Tailwind, Radix, Shadcn/ui
-* **Data:** Prisma, MySQL/Postgres, Drizzle
-
----
-
-### Get in touch
-
-* 🌐 First Portfolio: **https://ripsynss.vercel.app**
-* 🌐 Second Portfolio: **https://rlxxx.vercel.app**
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-One%20Dark%20Pro-282C34?style=for-the-badge&logo=atom&logoColor=ABB2BF" />
-  <img src="https://komarev.com/ghpvc/?username=setsuwww&style=for-the-badge&color=61AFEF&label=Profile+Views" alt="views"/>
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=glitch&text1=setsuwww&width=1100&height=220" />
-  <img alt="banner" src="https://svg-banners.vercel.app/api?type=glitch&text1=setsuwww&width=1100&height=220" />
-</picture>
+```text
+TypeScript     JavaScript     PHP
+React          Next.js        Vue.js         Nuxt.js
+Tailwind CSS   Shadcn/UI      Radix UI
+Prisma         Drizzle        MySQL          PostgreSQL
+Node.js        Express        Laravel        Docker
+```
