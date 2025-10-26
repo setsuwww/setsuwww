@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://ripsynss.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%201-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio%202-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://rlxxx.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%202-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" />
