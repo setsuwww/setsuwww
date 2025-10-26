@@ -43,3 +43,11 @@ Tailwind CSS   Shadcn/UI      Radix UI
 Prisma         Drizzle        MySQL          PostgreSQL
 Node.js        Express        Laravel        Docker
 ```
+<img src="https://img.shields.io/badge/DESIGN_SYSTEM-ONE_DARK_PRO-1a1b27?style=flat-square&#x26;logo=atom&#x26;logoColor=c0caf5" alt="Theme">
+  <img src="https://komarev.com/ghpvc/?username=setsuwww&#x26;style=flat-square&#x26;color=7aa2f7&#x26;label=PROFILE+VIEWS" alt="Profile Views">
+
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&#x26;color=gradient&#x26;customColorList=10,20,30&#x26;height=120&#x26;section=footer&#x26;animation=0&#x26;fontSize=0">
+    <img src="https://capsule-render.vercel.app/api?type=waving&#x26;color=gradient&#x26;customColorList=10,20,30&#x26;height=120&#x26;section=footer&#x26;animation=0&#x26;fontSize=0" alt="Footer Wave">
+  </picture>
