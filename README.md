@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rifqi%20Ibrahim%20'S%20Github%20Profiles&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rifqi%20Ibrahim'S%20Github%20Profiles&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
 
 <p>
   <img src="https://github.com/user-attachments/assets/86d46417-d25b-44e2-a1a5-d36eb29b2ef2" width="250" style="border-radius: 100%;" alt="Ambatukam">
@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Developer;Full+Stack+Developer+;Laravel+Nextjs+Expert+;" alt="Typing SVG" />
 </a>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,npm,nodejs,bootstrap,tailwindcss,vuejs,react,vite,express,mysql,sqlite,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,dart,flutter,ruby&perline=10" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,npm,nodejs,bootstrap,tailwindcss,vuejs,react,angular,vite,express,mysql,sqlite,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,dart,flutter,ruby,swift,objc&perline=10" alt="skills"/>
 
 ### Github Statistics
 
