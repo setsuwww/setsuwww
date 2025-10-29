@@ -14,7 +14,7 @@
 
 ---
 
-### 🌤️ Github Statistics
+### Github Statistics
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=calm&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0&icon_color=2DD4BF" alt="stats" />
@@ -25,7 +25,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=0D1117&color=2DD4BF&line=0EA5E9&point=10B981&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
+
 ---
+
 
 ## My Portfolio
 
