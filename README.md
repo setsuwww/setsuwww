@@ -22,16 +22,12 @@
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=setsuwww&theme=highcontrast&hide_border=true&background=0D1117&ring=2DD4BF&fire=0EA5E9&currStreakLabel=10B981" alt="streak" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=0D1117&color=2DD4BF&line=0EA5E9&point=10B981&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
 
-## 🪴 My Portfolio
+## My Portfolio
 
 | Project | Description | Link |
 |----------|--------------|------|
