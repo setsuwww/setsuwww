@@ -10,14 +10,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Developer;Full+Stack+Developer;Laravel+Nextjs+Expert;" alt="Typing SVG" />
 </a>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,npm,nodejs,bootstrap,tailwindcss,vuejs,react,angular,vite,express,mysql,sqlite,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,dart,flutter&perline=10" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,npm,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,dart,flutter&perline=10" alt="skills"/>
 
 ---
 
 ### Github Statistics
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=calm&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0&icon_color=2DD4BF" alt="stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=calm&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0&icon_color=2DD4BF" alt="stats" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=calm&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0" alt="top langs" />
 </p>
 
