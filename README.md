@@ -18,7 +18,7 @@
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=calm&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0&icon_color=2DD4BF" alt="stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=calm&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0" alt="top langs" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=calm&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0" alt="top langs" />
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 1. **First Portfolio** | Personal showcase site with modern UI | [Visit →](https://ripsynss.vercel.app) |
-| 2. **Second Portfolio** | Experimental React + Tailwind setup | [Visit →](https://rlxxx.vercel.app) |
+| 1. **First Portfolio** | Reactjs + Vite + Framer-motion | [Visit →](https://ripsynss.vercel.app) |
+| 2. **Second Portfolio** | Reactjs + Vite + GSAP | [Visit →](https://rlxxx.vercel.app) |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,11,14&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,11,14&height=80&section=footer" width="100%"/>
 
 </div>
