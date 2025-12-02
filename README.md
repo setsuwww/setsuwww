@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Developer;Full+Stack+Developer;Laravel+Nextjs+Expert;" alt="Typing SVG" />
 </a>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,npm,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,dart,flutter&perline=10" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,npm,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,postgresql,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,golang,dart,flutter&perline=10" alt="skills"/>
 
 ---
 
