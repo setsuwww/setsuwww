@@ -14,9 +14,8 @@
 
 <p align="center">
   I'am a Developer who like to explore new things in technologies side, expecially website development.  
-  At now i was focus to learn Golang and Building more SaaS projects that are reusable, maintainable, and scalable. using cutting-edge technologies like
-  Typescriped Nextjs, Shadcn, Zustand, Prisma, Laravel, Livewire, Typescriped React Inertiajs, Alpinejs, and now i still learning more backend technologies like
-  Golang, dan Nestjs
+  At now i was focus to learn Golang and Building more SaaS projects that are beautyfull, reusable, maintainable, and scalable. using cutting-edge technologies like
+  Typescriped Nextjs, Shadcn, Zustand, Prisma, Laravel, Livewire, Typescriped React Inertiajs, Alpinejs, and now i still learning more backend technologies
 </p>
 
 
