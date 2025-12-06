@@ -10,16 +10,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Developer;Full+Stack+Developer;Laravel+Nextjs+Expert;" alt="Typing SVG" />
 </a>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,postgresql,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,golang,dart,flutter&perline=10" alt="skills"/>
+<h1 align="center">Hi, I'm Rifqi Ibrahim</h1>
+
+<p align="center">
+  Developer dari Bekasi yang senang mempelajari hal baru.  
+  Saat ini sedang fokus memperdalam Golang dan pengembangan aplikasi modern.
+</p>
+
+---
+
+## Tentang Saya
+- Suka eksplor teknologi baru khususnya di web development.
+- Terbiasa membangun aplikasi fullstack dengan arsitektur yang rapi.
+- Sedang belajar dan memperdalam Golang untuk backend service.
+
+---
+
+## Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,postgresql,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,golang,dart,flutter&perline=10" alt="skills"/>
+</p>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=calm&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0&icon_color=2DD4BF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=calm&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0" />
+</p>
 
 ---
 
 ### Github Statistics
-
-<p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=calm&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0&icon_color=2DD4BF" alt="stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=calm&bg_color=0D1117&title_color=14B8A6&text_color=A7F3D0" alt="top langs" />
-</p>
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=0D1117&color=2DD4BF&line=0EA5E9&point=10B981&area=true&hide_border=true" alt="activity graph"/>
