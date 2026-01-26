@@ -42,10 +42,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=setsuwww&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=setsuwww&theme=tokyonight" />
 </p>
 
