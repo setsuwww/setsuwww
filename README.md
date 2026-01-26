@@ -32,23 +32,29 @@
 
 
 ## GitHub Stats
-<div align="center">
-  <p align="left" align="start">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  </p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    </td>
+    <td width="50%" align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+  </tr>
+</table>
 
-  <p align="right" align="end">
-    <img src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </p>
-</div>
+<br />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=setsuwww&theme=tokyonight" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=0D1117&color=2DD4BF&line=0EA5E9&point=10B981&area=true&hide_border=true" alt="activity graph"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="left">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=setsuwww&theme=tokyonight" />
+    </td>
+    <td width="50%" align="right">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=0D1117&color=2DD4BF&line=0EA5E9&point=10B981&area=true&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
 ---
