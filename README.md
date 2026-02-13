@@ -32,18 +32,6 @@
 
 
 ## GitHub Stats
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsuwww&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-    </td>
-    <td width="50%" align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=setsuwww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
-  </tr>
-</table>
-
-<br />
 
 <table width="100%">
   <tr>
