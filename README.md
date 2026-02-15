@@ -10,12 +10,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Developer;Full+Stack+Developer;Laravel+Nextjs+Expert;" alt="Typing SVG" />
 </a>
 
-<h1 align="center">Hi, I'm Rifqi Ibrahim</h1>
+<h1 align="center">Hello, I'm Rifqi Ibrahim</h1>
 
 <p align="center">
   I'am a Developer who like to explore new things in technologies side, expecially website development.  
   At now i was focus to learn Golang and Building more SaaS projects that are beautyfull, reusable, maintainable, and scalable. using cutting-edge technologies like
-  Nextjs, Laravel Inertiajs, and now i still learning more Backend technologies like Golang, Python, FastAPI, Django, CSharp(C#)
+  Nextjs, Laravel Inertiajs, Reactjs, Vuejs and now i still learn more Backend technologies like Golang, Python, FastAPI, Django, CSharp(C#)
 </p>
 
 
