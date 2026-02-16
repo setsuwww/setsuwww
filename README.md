@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,14&height=200&section=header&text=Rifqi%20Ibrahim's%20Github%20Profiles&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/86d46417-d25b-44e2-a1a5-d36eb29b2ef2" width="250" style="border-radius: 100%;" alt="Ambatukam">
-</p>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Developer;Full+Stack+Developer;Laravel+Nextjs+Expert;" alt="Typing SVG" />
 </a>
