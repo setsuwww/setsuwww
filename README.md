@@ -20,7 +20,7 @@
 
 ## Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,postgresql,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,golang,dart,flutter,c,cs,cpp,supabase,neon,firebase,kotlin,java,vscode,androidstudio,code&perline=10" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,postgresql,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,golang,dart,flutter,c,cs,cpp,supabase,firebase,kotlin,java,swift,vscode,androidstudio,code&perline=10" alt="skills"/>
 </p>
 
 
