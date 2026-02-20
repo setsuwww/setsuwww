@@ -11,7 +11,7 @@
 <p align="center">
   I'am a Developer who like to explore new things in technologies side, expecially website development.  
   At now i was focus to learn Golang and Building more SaaS projects that are beautyfull, reusable, maintainable, and scalable. using cutting-edge technologies like
-  Nextjs, Laravel Inertiajs, Reactjs, Vuejs and now i still learn more Backend technologies like Golang, Python, FastAPI, Django, CSharp(C#)
+  Nextjs, Laravel Inertiajs, Reactjs, Vuejs and now i still learn more Backend technologies like Golang, Python, FastAPI, Django, CSharp(C#) with Many Database cloud like Mongodb     atlas, Postgresql Neon, Azure
 </p>
 
 
