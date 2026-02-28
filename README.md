@@ -27,7 +27,7 @@
 ---
 
 
-## GitHub Stats
+## Activity stats
 
 <table width="100%">
   <tr>
@@ -44,7 +44,7 @@
 ---
 
 
-## My Portfolio
+## My Portfolio-app
 
 | Project | Description | Link |
 |----------|--------------|------|
