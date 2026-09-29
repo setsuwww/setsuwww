@@ -14,42 +14,16 @@
   Nextjs, Laravel Inertiajs, Reactjs, Vuejs and now i still learn more Backend technologies like Golang, Python, FastAPI, Django, CSharp(C#) with Many Database cloud like  Nosql Mongodb atlas, Sql Postgresql Neon, I handle all by myself from Wireframe, UIUX Design, System Modeling Tools, Techstack, Testing, Prototyping, and Security and Networking Deployment platform
 </p>
 
-
----
-
-
 ## Skills that i Learn
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,bootstrap,tailwindcss,vuejs,react,angular,nestjs,vite,express,mysql,sqlite,postgresql,mongodb,laravel,nextjs,nuxtjs,prisma,docker,git,github,electron,python,fastapi,django,golang,dart,flutter,c,cs,cpp,supabase,firebase,kotlin,java,swift,vscode,androidstudio,code&perline=10" alt="skills"/>
 </p>
 
-
----
-
-
-## Activity stats
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=setsuwww&theme=tokyonight" />
-    </td>
-    <td width="50%" align="right">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=setsuwww&theme=github-compact&bg_color=0D1117&color=2DD4BF&line=0EA5E9&point=10B981&area=true&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-
 ## My Portfolio-app
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 1. **First Portfolio** | Reactjs + Vite + Framer-motion | [Visit →](https://ripsynss.vercel.app) |
-| 2. **Second Portfolio** | Reactjs + Vite + GSAP | [Visit →](https://rlxxx.vercel.app) |
+| 1. **First Portfolio** | Vite + Reactjs + GSAP | [Visit →](https://katier.vercel.app) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,11,14&height=80&section=footer" width="100%"/>
 
