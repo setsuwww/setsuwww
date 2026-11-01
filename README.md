@@ -130,16 +130,6 @@ A multisector SaaS inventory management system built with Laravel, Inertia, and 
 
 <br/>
 
-<div align="center">
-
-## ⟡ Contribution Snake
-
-<img src="https://raw.githubusercontent.com/setsuwww/setsuwww/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:4c1d95,100:9f1239" width="100%" alt="divider" />
 
 <div align="center">
