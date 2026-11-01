@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:4c1d95,100:9f1239&text=Otsutsuki%20Setsuwww&fontColor=f0e6ff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descColor=c9b6e8&descSize=18&descAlignY=58&animation=fadeIn" alt="Profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:4c1d95,100:9f1239&text=I'am%20Setsunawa&fontColor=f0e6ff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descColor=c9b6e8&descSize=18&descAlignY=58&animation=fadeIn" alt="Profile banner" width="100%" />
 
-<img src="https://64.media.tumblr.com/d707cc7d5fdf6db91743fcd896e0d728/tumblr_p2ggvyLkxy1t3nzgao1_400.gif" alt="Hero GIF placeholder" width="50%" />
+<img src="https://i.pinimg.com/originals/24/25/c4/2425c4543dbf93a4b02fbb37c26d65a9.gif" alt="Hero GIF placeholder" width="70%" />
 
 <br/><br/>
 
@@ -130,13 +130,17 @@ A multisector SaaS inventory management system built with Laravel, Inertia, and 
 
 <br/>
 
+
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:4c1d95,100:9f1239" width="100%" alt="divider" />
 
 <div align="center">
 
 <br/><br/>
 
-<img src="https://i.pinimg.com/originals/c4/98/0f/c4980f465cf1285d46e6576a577ad145.gif" alt="Footer GIF placeholder" width="30%" />
+<img src="https://gifdb.com/images/high/sasuke-uchiha-red-alluring-eyes-bv7iroj2kivvnnhi.webp" alt="Footer GIF placeholder" width="50%" />
 
 <br/><br/>
 
