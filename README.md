@@ -35,11 +35,11 @@
 
 ## ⟡ About Me
 <p>
-  A Software Engineering graduate with a strong understanding of the end-to-end web development lifecycle, from analyzing requirements and designing system architecture to building, testing, deploying, and maintaining web applications. Experienced in translating business requirements into structured software solutions through **Use Case Diagrams, UML, Activity Diagrams, Flowcharts, DFDs, and ERDs,** followed by **UI/UX design, wireframing, prototyping, technology and architecture selection, and database design.**
+  A Software Engineering graduate with a strong understanding of the end-to-end web development lifecycle, from analyzing requirements and designing system architecture to building, testing, deploying, and maintaining web applications. Experienced in translating business requirements into structured software solutions through Use Case Diagrams, UML, Activity Diagrams, Flowcharts, DFDs, and ERDs, followed by UI/UX design, wireframing, prototyping, technology and architecture selection, and database design.
 
-Skilled in developing modern web applications across the frontend, API, backend, and server layers using technologies such as **Next.js, React.js, TypeScript, Laravel, Inertia.js, Node.js, and Express.js.** Experienced in designing responsive interfaces with **Tailwind CSS and shadcn/ui**, developing and integrating **REST APIs and endpoints**, managing SQL and NoSQL databases, and implementing application testing with **Jest, Vitest, Cypress, and Postman.**
+Skilled in developing modern web applications across the frontend, API, backend, and server layers using technologies such as Next.js, React.js, TypeScript, Laravel, Inertia.js, Node.js, and Express.js. Experienced in designing responsive interfaces with Tailwind CSS and shadcn/ui, developing and integrating REST APIs and endpoints, managing SQL and NoSQL databases, and implementing application testing with Jest, Vitest, Cypress, and Postman.
 
-Familiar with professional software development workflows including **Git, GitHub, GitLab, GitHub Actions, CI/CD, automated linting, testing, builds, deployment**, and server-side environments. Comfortable working across the entire development process—from requirements and system design to UI/UX, development, API integration, testing, CI/CD, deployment, and production—with a focus on building software that is scalable, maintainable, reusable, and well-structured.
+Familiar with professional software development workflows including Git, GitHub, GitLab, GitHub Actions, CI/CD, automated linting, testing, builds, deployment, and server-side environments. Comfortable working across the entire development process—from requirements and system design to UI/UX, development, API integration, testing, CI/CD, deployment, and production—with a focus on building software that is scalable, maintainable, reusable, and well-structured.
 
 
 </p>
