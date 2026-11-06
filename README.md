@@ -55,7 +55,7 @@ Familiar with professional software development workflows including Git, GitHub,
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,golang,dart,c,cs,cpp,kotlin,java,swift,react,nextjs,vuejs,nuxtjs,svelte,angular,redux,pinia,tailwindcss,bootstrap,materialui,vite,nodejs,express,nestjs,laravel,fastapi,django,mysql,sqlite,postgresql,mongodb,prisma,supabase,firebase,jest,vitest,cypress,postman,docker,git,github,gitlab,vscode,flutter,electron,androidstudio,figma&theme=dark&perline=10" alt="Tech stack" width="520" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,golang,dart,c,cs,cpp,java,kotlin,swift,vite,react,nextjs,vuejs,nuxtjs,svelte,angular,redux,pinia,tailwindcss,materialui,bootstrap,nodejs,express,nestjs,laravel,fastapi,django,mysql,sqlite,postgresql,mongodb,prisma,supabase,firebase,jest,vitest,cypress,postman,docker,git,github,gitlab,vscode,flutter,electron,androidstudio,figma&theme=dark&perline=10" alt="Tech stack" width="520" />
 </div>
 
 <br/>
