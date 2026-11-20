@@ -50,8 +50,6 @@
 
 ```json
 {
-  "name": "Setsunawa",
-  "username": "setsuwww",
   "role": [
     "Software Engineer",
     "Full-Stack Developer"
@@ -78,7 +76,6 @@
       "Express.js"
     ],
     "database": [
-      "MySQL",
       "PostgreSQL",
       "MongoDB"
     ]
